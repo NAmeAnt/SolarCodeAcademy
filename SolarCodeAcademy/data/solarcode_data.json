@@ -1,0 +1,1804 @@
+{
+  "Fields": [
+    {
+      "FieldID": 1,
+      "Name": "Web",
+      "Description": "Phát triển ứng dụng web từ cơ bản đến nâng cao",
+      "Color": "0x00ff00",
+      "Position": [10, 0, 0]
+    },
+    {
+      "FieldID": 2,
+      "Name": "AI",
+      "Description": "Trí tuệ nhân tạo và học máy",
+      "Color": "0x800080",
+      "Position": [7, 7, 0]
+    },
+    {
+      "FieldID": 3,
+      "Name": "Quản lý",
+      "Description": "Quản lý dự án và phát triển phần mềm",
+      "Color": "0x0000ff",
+      "Position": [0, 10, 0]
+    },
+    {
+      "FieldID": 4,
+      "Name": "Hệ thống",
+      "Description": "Phát triển và quản trị hệ thống",
+      "Color": "0x808080",
+      "Position": [-7, 7, 0]
+    },
+    {
+      "FieldID": 5,
+      "Name": "Bảo mật",
+      "Description": "An ninh mạng và bảo mật thông tin",
+      "Color": "0xff0000",
+      "Position": [-10, 0, 0]
+    },
+    {
+      "FieldID": 6,
+      "Name": "Game",
+      "Description": "Phát triển trò chơi và ứng dụng giải trí",
+      "Color": "0xffff00",
+      "Position": [-7, -7, 0]
+    },
+    {
+      "FieldID": 7,
+      "Name": "Blockchain",
+      "Description": "Công nghệ blockchain và ứng dụng phi tập trung",
+      "Color": "0xffa500",
+      "Position": [0, -10, 0]
+    }
+  ],
+  "Languages": [
+    {
+      "LanguageID": 1,
+      "Name": "JavaScript",
+      "Icon": "js_icon.png",
+      "OrbitRadius": 2,
+      "OrbitSpeed": 0.05,
+      "FieldID": 1
+    },
+    {
+      "LanguageID": 2,
+      "Name": "HTML/CSS",
+      "Icon": "html_icon.png",
+      "OrbitRadius": 2.5,
+      "OrbitSpeed": 0.04,
+      "FieldID": 1
+    },
+    {
+      "LanguageID": 3,
+      "Name": "TypeScript",
+      "Icon": "ts_icon.png",
+      "OrbitRadius": 3,
+      "OrbitSpeed": 0.03,
+      "FieldID": 1
+    },
+    {
+      "LanguageID": 4,
+      "Name": "Python",
+      "Icon": "python_icon.png",
+      "OrbitRadius": 2,
+      "OrbitSpeed": 0.05,
+      "FieldID": 2
+    },
+    {
+      "LanguageID": 5,
+      "Name": "R",
+      "Icon": "r_icon.png",
+      "OrbitRadius": 2.5,
+      "OrbitSpeed": 0.04,
+      "FieldID": 2
+    },
+    {
+      "LanguageID": 6,
+      "Name": "Julia",
+      "Icon": "julia_icon.png",
+      "OrbitRadius": 3,
+      "OrbitSpeed": 0.03,
+      "FieldID": 2
+    },
+    {
+      "LanguageID": 7,
+      "Name": "SQL",
+      "Icon": "sql_icon.png",
+      "OrbitRadius": 2,
+      "OrbitSpeed": 0.05,
+      "FieldID": 3
+    },
+    {
+      "LanguageID": 8,
+      "Name": "Java",
+      "Icon": "java_icon.png",
+      "OrbitRadius": 2.5,
+      "OrbitSpeed": 0.04,
+      "FieldID": 3
+    },
+    {
+      "LanguageID": 9,
+      "Name": "C#",
+      "Icon": "csharp_icon.png",
+      "OrbitRadius": 3,
+      "OrbitSpeed": 0.03,
+      "FieldID": 3
+    },
+    {
+      "LanguageID": 10,
+      "Name": "Bash",
+      "Icon": "bash_icon.png",
+      "OrbitRadius": 2,
+      "OrbitSpeed": 0.05,
+      "FieldID": 4
+    },
+    {
+      "LanguageID": 11,
+      "Name": "Go",
+      "Icon": "go_icon.png",
+      "OrbitRadius": 2.5,
+      "OrbitSpeed": 0.04,
+      "FieldID": 4
+    },
+    {
+      "LanguageID": 12,
+      "Name": "Rust",
+      "Icon": "rust_icon.png",
+      "OrbitRadius": 3,
+      "OrbitSpeed": 0.03,
+      "FieldID": 4
+    },
+    {
+      "LanguageID": 13,
+      "Name": "C/C++",
+      "Icon": "cpp_icon.png",
+      "OrbitRadius": 2,
+      "OrbitSpeed": 0.05,
+      "FieldID": 5
+    },
+    {
+      "LanguageID": 14,
+      "Name": "PHP",
+      "Icon": "php_icon.png",
+      "OrbitRadius": 2.5,
+      "OrbitSpeed": 0.04,
+      "FieldID": 5
+    },
+    {
+      "LanguageID": 15,
+      "Name": "PowerShell",
+      "Icon": "powershell_icon.png",
+      "OrbitRadius": 3,
+      "OrbitSpeed": 0.03,
+      "FieldID": 5
+    },
+    {
+      "LanguageID": 16,
+      "Name": "C++",
+      "Icon": "cpp_icon.png",
+      "OrbitRadius": 2,
+      "OrbitSpeed": 0.05,
+      "FieldID": 6
+    },
+    {
+      "LanguageID": 17,
+      "Name": "C#",
+      "Icon": "csharp_icon.png",
+      "OrbitRadius": 2.5,
+      "OrbitSpeed": 0.04,
+      "FieldID": 6
+    },
+    {
+      "LanguageID": 18,
+      "Name": "JavaScript",
+      "Icon": "js_icon.png",
+      "OrbitRadius": 3,
+      "OrbitSpeed": 0.03,
+      "FieldID": 6
+    },
+    {
+      "LanguageID": 19,
+      "Name": "Solidity",
+      "Icon": "solidity_icon.png",
+      "OrbitRadius": 2,
+      "OrbitSpeed": 0.05,
+      "FieldID": 7
+    },
+    {
+      "LanguageID": 20,
+      "Name": "JavaScript",
+      "Icon": "js_icon.png",
+      "OrbitRadius": 2.5,
+      "OrbitSpeed": 0.04,
+      "FieldID": 7
+    },
+    {
+      "LanguageID": 21,
+      "Name": "Python",
+      "Icon": "python_icon.png",
+      "OrbitRadius": 3,
+      "OrbitSpeed": 0.03,
+      "FieldID": 7
+    }
+  ],
+  "LearningPaths": [
+    {
+      "PathID": 1,
+      "LanguageID": 1,
+      "Title": "Học JavaScript cho Web",
+      "Description": "Lộ trình học JavaScript từ cơ bản đến nâng cao cho phát triển web"
+    },
+    {
+      "PathID": 2,
+      "LanguageID": 2,
+      "Title": "Học HTML/CSS",
+      "Description": "Lộ trình học HTML/CSS từ cơ bản đến nâng cao cho thiết kế web"
+    },
+    {
+      "PathID": 3,
+      "LanguageID": 3,
+      "Title": "Học TypeScript",
+      "Description": "Lộ trình học TypeScript cho phát triển web hiện đại"
+    },
+    {
+      "PathID": 4,
+      "LanguageID": 4,
+      "Title": "Học Python cho AI",
+      "Description": "Lộ trình học Python từ cơ bản đến nâng cao cho trí tuệ nhân tạo"
+    },
+    {
+      "PathID": 5,
+      "LanguageID": 5,
+      "Title": "Học R cho phân tích dữ liệu",
+      "Description": "Lộ trình học R cho phân tích dữ liệu và thống kê"
+    },
+    {
+      "PathID": 6,
+      "LanguageID": 6,
+      "Title": "Học Julia cho tính toán khoa học",
+      "Description": "Lộ trình học Julia cho tính toán khoa học và AI"
+    },
+    {
+      "PathID": 7,
+      "LanguageID": 7,
+      "Title": "Học SQL cho quản lý dữ liệu",
+      "Description": "Lộ trình học SQL từ cơ bản đến nâng cao cho quản lý dữ liệu"
+    },
+    {
+      "PathID": 8,
+      "LanguageID": 8,
+      "Title": "Học Java cho phát triển doanh nghiệp",
+      "Description": "Lộ trình học Java cho phát triển ứng dụng doanh nghiệp"
+    },
+    {
+      "PathID": 9,
+      "LanguageID": 9,
+      "Title": "Học C# cho phát triển .NET",
+      "Description": "Lộ trình học C# cho phát triển ứng dụng .NET"
+    },
+    {
+      "PathID": 10,
+      "LanguageID": 10,
+      "Title": "Học Bash cho quản trị hệ thống",
+      "Description": "Lộ trình học Bash cho quản trị hệ thống Linux"
+    },
+    {
+      "PathID": 11,
+      "LanguageID": 11,
+      "Title": "Học Go cho phát triển hệ thống",
+      "Description": "Lộ trình học Go cho phát triển hệ thống và microservices"
+    },
+    {
+      "PathID": 12,
+      "LanguageID": 12,
+      "Title": "Học Rust cho phát triển hệ thống an toàn",
+      "Description": "Lộ trình học Rust cho phát triển hệ thống an toàn và hiệu quả"
+    },
+    {
+      "PathID": 13,
+      "LanguageID": 13,
+      "Title": "Học C/C++ cho bảo mật",
+      "Description": "Lộ trình học C/C++ cho phát triển ứng dụng bảo mật"
+    },
+    {
+      "PathID": 14,
+      "LanguageID": 14,
+      "Title": "Học PHP cho bảo mật web",
+      "Description": "Lộ trình học PHP với trọng tâm bảo mật web"
+    },
+    {
+      "PathID": 15,
+      "LanguageID": 15,
+      "Title": "Học PowerShell cho bảo mật Windows",
+      "Description": "Lộ trình học PowerShell cho bảo mật hệ thống Windows"
+    },
+    {
+      "PathID": 16,
+      "LanguageID": 16,
+      "Title": "Học C++ cho phát triển game",
+      "Description": "Lộ trình học C++ cho phát triển game"
+    },
+    {
+      "PathID": 17,
+      "LanguageID": 17,
+      "Title": "Học C# với Unity",
+      "Description": "Lộ trình học C# với Unity cho phát triển game"
+    },
+    {
+      "PathID": 18,
+      "LanguageID": 18,
+      "Title": "Học JavaScript cho game web",
+      "Description": "Lộ trình học JavaScript cho phát triển game web"
+    },
+    {
+      "PathID": 19,
+      "LanguageID": 19,
+      "Title": "Học Solidity cho smart contracts",
+      "Description": "Lộ trình học Solidity cho phát triển smart contracts"
+    },
+    {
+      "PathID": 20,
+      "LanguageID": 20,
+      "Title": "Học JavaScript cho dApps",
+      "Description": "Lộ trình học JavaScript cho phát triển ứng dụng phi tập trung"
+    },
+    {
+      "PathID": 21,
+      "LanguageID": 21,
+      "Title": "Học Python cho blockchain",
+      "Description": "Lộ trình học Python cho phát triển blockchain"
+    }
+  ],
+  "Modules": [
+    {
+      "ModuleID": 1,
+      "PathID": 1,
+      "Title": "Cú pháp JavaScript",
+      "Content": "Học cú pháp cơ bản của JavaScript: biến, kiểu dữ liệu, toán tử, cấu trúc điều khiển",
+      "Color": "#FFFF00",
+      "IsBranchPoint": false,
+      "Order": 1
+    },
+    {
+      "ModuleID": 2,
+      "PathID": 1,
+      "Title": "Dự án nhỏ JavaScript",
+      "Content": "Xây dựng các dự án nhỏ với JavaScript: máy tính, trò chơi đơn giản, ứng dụng todo",
+      "Color": "#FFA500",
+      "IsBranchPoint": false,
+      "Order": 2
+    },
+    {
+      "ModuleID": 3,
+      "PathID": 1,
+      "Title": "JavaScript nâng cao",
+      "Content": "Học JavaScript nâng cao: OOP, functional programming, async/await, promises",
+      "Color": "#FF0000",
+      "IsBranchPoint": true,
+      "Order": 3
+    },
+    {
+      "ModuleID": 4,
+      "PathID": 1,
+      "Title": "Thực hành JavaScript",
+      "Content": "Thực hành JavaScript với các dự án thực tế: ứng dụng web, API, SPA",
+      "Color": "#800080",
+      "IsBranchPoint": false,
+      "Order": 4
+    },
+    {
+      "ModuleID": 5,
+      "PathID": 1,
+      "Title": "JavaScript chuyên sâu",
+      "Content": "Học JavaScript chuyên sâu: design patterns, performance optimization, testing",
+      "Color": "#0000FF",
+      "IsBranchPoint": true,
+      "Order": 5
+    },
+    {
+      "ModuleID": 6,
+      "PathID": 2,
+      "Title": "Cú pháp HTML/CSS",
+      "Content": "Học cú pháp cơ bản của HTML và CSS: thẻ, selector, box model, layout",
+      "Color": "#FFFF00",
+      "IsBranchPoint": false,
+      "Order": 1
+    },
+    {
+      "ModuleID": 7,
+      "PathID": 2,
+      "Title": "Dự án nhỏ HTML/CSS",
+      "Content": "Xây dựng các dự án nhỏ với HTML/CSS: landing page, form, responsive design",
+      "Color": "#FFA500",
+      "IsBranchPoint": false,
+      "Order": 2
+    },
+    {
+      "ModuleID": 8,
+      "PathID": 2,
+      "Title": "HTML/CSS nâng cao",
+      "Content": "Học HTML/CSS nâng cao: Flexbox, Grid, CSS variables, animations",
+      "Color": "#FF0000",
+      "IsBranchPoint": true,
+      "Order": 3
+    },
+    {
+      "ModuleID": 9,
+      "PathID": 2,
+      "Title": "Thực hành HTML/CSS",
+      "Content": "Thực hành HTML/CSS với các dự án thực tế: portfolio, e-commerce, blog",
+      "Color": "#800080",
+      "IsBranchPoint": false,
+      "Order": 4
+    },
+    {
+      "ModuleID": 10,
+      "PathID": 2,
+      "Title": "HTML/CSS chuyên sâu",
+      "Content": "Học HTML/CSS chuyên sâu: SASS/SCSS, CSS architecture, performance",
+      "Color": "#0000FF",
+      "IsBranchPoint": true,
+      "Order": 5
+    },
+    {
+      "ModuleID": 11,
+      "PathID": 3,
+      "Title": "Cú pháp TypeScript",
+      "Content": "Học cú pháp cơ bản của TypeScript: types, interfaces, generics",
+      "Color": "#FFFF00",
+      "IsBranchPoint": false,
+      "Order": 1
+    },
+    {
+      "ModuleID": 12,
+      "PathID": 3,
+      "Title": "Dự án nhỏ TypeScript",
+      "Content": "Xây dựng các dự án nhỏ với TypeScript: ứng dụng console, API đơn giản",
+      "Color": "#FFA500",
+      "IsBranchPoint": false,
+      "Order": 2
+    },
+    {
+      "ModuleID": 13,
+      "PathID": 3,
+      "Title": "TypeScript nâng cao",
+      "Content": "Học TypeScript nâng cao: advanced types, decorators, modules",
+      "Color": "#FF0000",
+      "IsBranchPoint": true,
+      "Order": 3
+    },
+    {
+      "ModuleID": 14,
+      "PathID": 3,
+      "Title": "Thực hành TypeScript",
+      "Content": "Thực hành TypeScript với các dự án thực tế: React/Angular/Vue với TypeScript",
+      "Color": "#800080",
+      "IsBranchPoint": false,
+      "Order": 4
+    },
+    {
+      "ModuleID": 15,
+      "PathID": 3,
+      "Title": "TypeScript chuyên sâu",
+      "Content": "Học TypeScript chuyên sâu: type-driven development, testing, performance",
+      "Color": "#0000FF",
+      "IsBranchPoint": true,
+      "Order": 5
+    },
+    {
+      "ModuleID": 16,
+      "PathID": 4,
+      "Title": "Cú pháp Python",
+      "Content": "Học cú pháp cơ bản của Python: biến, kiểu dữ liệu, toán tử, cấu trúc điều khiển",
+      "Color": "#FFFF00",
+      "IsBranchPoint": false,
+      "Order": 1
+    },
+    {
+      "ModuleID": 17,
+      "PathID": 4,
+      "Title": "Dự án nhỏ Python",
+      "Content": "Xây dựng các dự án nhỏ với Python: phân tích dữ liệu đơn giản, automation",
+      "Color": "#FFA500",
+      "IsBranchPoint": false,
+      "Order": 2
+    },
+    {
+      "ModuleID": 18,
+      "PathID": 4,
+      "Title": "Python cho AI",
+      "Content": "Học Python cho AI: NumPy, Pandas, Matplotlib, scikit-learn",
+      "Color": "#FF0000",
+      "IsBranchPoint": true,
+      "Order": 3
+    },
+    {
+      "ModuleID": 19,
+      "PathID": 4,
+      "Title": "Thực hành Python AI",
+      "Content": "Thực hành Python với các dự án AI: phân loại, dự đoán, xử lý ngôn ngữ tự nhiên",
+      "Color": "#800080",
+      "IsBranchPoint": false,
+      "Order": 4
+    },
+    {
+      "ModuleID": 20,
+      "PathID": 4,
+      "Title": "Python AI chuyên sâu",
+      "Content": "Học Python AI chuyên sâu: deep learning, neural networks, TensorFlow/PyTorch",
+      "Color": "#0000FF",
+      "IsBranchPoint": true,
+      "Order": 5
+    },
+    {
+      "ModuleID": 21,
+      "PathID": 5,
+      "Title": "Cú pháp R",
+      "Content": "Học cú pháp cơ bản của R: biến, kiểu dữ liệu, hàm, packages",
+      "Color": "#FFFF00",
+      "IsBranchPoint": false,
+      "Order": 1
+    },
+    {
+      "ModuleID": 22,
+      "PathID": 5,
+      "Title": "Dự án nhỏ R",
+      "Content": "Xây dựng các dự án nhỏ với R: phân tích dữ liệu, trực quan hóa đơn giản",
+      "Color": "#FFA500",
+      "IsBranchPoint": false,
+      "Order": 2
+    },
+    {
+      "ModuleID": 23,
+      "PathID": 5,
+      "Title": "R nâng cao",
+      "Content": "Học R nâng cao: tidyverse, ggplot2, dplyr, tidyr",
+      "Color": "#FF0000",
+      "IsBranchPoint": true,
+      "Order": 3
+    },
+    {
+      "ModuleID": 24,
+      "PathID": 5,
+      "Title": "Thực hành R",
+      "Content": "Thực hành R với các dự án thực tế: phân tích dữ liệu lớn, thống kê nâng cao",
+      "Color": "#800080",
+      "IsBranchPoint": false,
+      "Order": 4
+    },
+    {
+      "ModuleID": 25,
+      "PathID": 5,
+      "Title": "R chuyên sâu",
+      "Content": "Học R chuyên sâu: machine learning với R, Shiny, package development",
+      "Color": "#0000FF",
+      "IsBranchPoint": true,
+      "Order": 5
+    },
+    {
+      "ModuleID": 26,
+      "PathID": 6,
+      "Title": "Cú pháp Julia",
+      "Content": "Học cú pháp cơ bản của Julia: biến, kiểu dữ liệu, hàm, modules",
+      "Color": "#FFFF00",
+      "IsBranchPoint": false,
+      "Order": 1
+    },
+    {
+      "ModuleID": 27,
+      "PathID": 6,
+      "Title": "Dự án nhỏ Julia",
+      "Content": "Xây dựng các dự án nhỏ với Julia: tính toán khoa học, tối ưu hóa",
+      "Color": "#FFA500",
+      "IsBranchPoint": false,
+      "Order": 2
+    },
+    {
+      "ModuleID": 28,
+      "PathID": 6,
+      "Title": "Julia nâng cao",
+      "Content": "Học Julia nâng cao: metaprogramming, parallel computing, performance",
+      "Color": "#FF0000",
+      "IsBranchPoint": true,
+      "Order": 3
+    },
+    {
+      "ModuleID": 29,
+      "PathID": 6,
+      "Title": "Thực hành Julia",
+      "Content": "Thực hành Julia với các dự án thực tế: mô phỏng, phân tích dữ liệu lớn",
+      "Color": "#800080",
+      "IsBranchPoint": false,
+      "Order": 4
+    },
+    {
+      "ModuleID": 30,
+      "PathID": 6,
+      "Title": "Julia chuyên sâu",
+      "Content": "Học Julia chuyên sâu: machine learning, deep learning, package development",
+      "Color": "#0000FF",
+      "IsBranchPoint": true,
+      "Order": 5
+    },
+    {
+      "ModuleID": 31,
+      "PathID": 7,
+      "Title": "Cú pháp SQL",
+      "Content": "Học cú pháp cơ bản của SQL: SELECT, INSERT, UPDATE, DELETE",
+      "Color": "#FFFF00",
+      "IsBranchPoint": false,
+      "Order": 1
+    },
+    {
+      "ModuleID": 32,
+      "PathID": 7,
+      "Title": "Dự án nhỏ SQL",
+      "Content": "Xây dựng các dự án nhỏ với SQL: quản lý dữ liệu đơn giản, báo cáo",
+      "Color": "#FFA500",
+      "IsBranchPoint": false,
+      "Order": 2
+    },
+    {
+      "ModuleID": 33,
+      "PathID": 7,
+      "Title": "SQL nâng cao",
+      "Content": "Học SQL nâng cao: joins, subqueries, stored procedures, triggers",
+      "Color": "#FF0000",
+      "IsBranchPoint": true,
+      "Order": 3
+    },
+    {
+      "ModuleID": 34,
+      "PathID": 7,
+      "Title": "Thực hành SQL",
+      "Content": "Thực hành SQL với các dự án thực tế: hệ thống quản lý dữ liệu phức tạp",
+      "Color": "#800080",
+      "IsBranchPoint": false,
+      "Order": 4
+    },
+    {
+      "ModuleID": 35,
+      "PathID": 7,
+      "Title": "SQL chuyên sâu",
+      "Content": "Học SQL chuyên sâu: performance tuning, indexing, security",
+      "Color": "#0000FF",
+      "IsBranchPoint": true,
+      "Order": 5
+    },
+    {
+      "ModuleID": 36,
+      "PathID": 8,
+      "Title": "Cú pháp Java",
+      "Content": "Học cú pháp cơ bản của Java: biến, kiểu dữ liệu, OOP, exceptions",
+      "Color": "#FFFF00",
+      "IsBranchPoint": false,
+      "Order": 1
+    },
+    {
+      "ModuleID": 37,
+      "PathID": 8,
+      "Title": "Dự án nhỏ Java",
+      "Content": "Xây dựng các dự án nhỏ với Java: ứng dụng console, GUI đơn giản",
+      "Color": "#FFA500",
+      "IsBranchPoint": false,
+      "Order": 2
+    },
+    {
+      "ModuleID": 38,
+      "PathID": 8,
+      "Title": "Java nâng cao",
+      "Content": "Học Java nâng cao: collections, generics, multithreading, IO",
+      "Color": "#FF0000",
+      "IsBranchPoint": true,
+      "Order": 3
+    },
+    {
+      "ModuleID": 39,
+      "PathID": 8,
+      "Title": "Thực hành Java",
+      "Content": "Thực hành Java với các dự án thực tế: Spring Boot, Hibernate, microservices",
+      "Color": "#800080",
+      "IsBranchPoint": false,
+      "Order": 4
+    },
+    {
+      "ModuleID": 40,
+      "PathID": 8,
+      "Title": "Java chuyên sâu",
+      "Content": "Học Java chuyên sâu: design patterns, testing, performance, security",
+      "Color": "#0000FF",
+      "IsBranchPoint": true,
+      "Order": 5
+    },
+    {
+      "ModuleID": 41,
+      "PathID": 9,
+      "Title": "Cú pháp C#",
+      "Content": "Học cú pháp cơ bản của C#: biến, kiểu dữ liệu, OOP, exceptions",
+      "Color": "#FFFF00",
+      "IsBranchPoint": false,
+      "Order": 1
+    },
+    {
+      "ModuleID": 42,
+      "PathID": 9,
+      "Title": "Dự án nhỏ C#",
+      "Content": "Xây dựng các dự án nhỏ với C#: ứng dụng console, WinForms đơn giản",
+      "Color": "#FFA500",
+      "IsBranchPoint": false,
+      "Order": 2
+    },
+    {
+      "ModuleID": 43,
+      "PathID": 9,
+      "Title": "C# nâng cao",
+      "Content": "Học C# nâng cao: LINQ, async/await, generics, collections",
+      "Color": "#FF0000",
+      "IsBranchPoint": true,
+      "Order": 3
+    },
+    {
+      "ModuleID": 44,
+      "PathID": 9,
+      "Title": "Thực hành C#",
+      "Content": "Thực hành C# với các dự án thực tế: ASP.NET Core, Entity Framework",
+      "Color": "#800080",
+      "IsBranchPoint": false,
+      "Order": 4
+    },
+    {
+      "ModuleID": 45,
+      "PathID": 9,
+      "Title": "C# chuyên sâu",
+      "Content": "Học C# chuyên sâu: design patterns, testing, performance, security",
+      "Color": "#0000FF",
+      "IsBranchPoint": true,
+      "Order": 5
+    },
+    {
+      "ModuleID": 46,
+      "PathID": 10,
+      "Title": "Cú pháp Bash",
+      "Content": "Học cú pháp cơ bản của Bash: biến, điều kiện, vòng lặp, hàm",
+      "Color": "#FFFF00",
+      "IsBranchPoint": false,
+      "Order": 1
+    },
+    {
+      "ModuleID": 47,
+      "PathID": 10,
+      "Title": "Dự án nhỏ Bash",
+      "Content": "Xây dựng các dự án nhỏ với Bash: scripts tự động hóa, xử lý file",
+      "Color": "#FFA500",
+      "IsBranchPoint": false,
+      "Order": 2
+    },
+    {
+      "ModuleID": 48,
+      "PathID": 10,
+      "Title": "Bash nâng cao",
+      "Content": "Học Bash nâng cao: regular expressions, process management, networking",
+      "Color": "#FF0000",
+      "IsBranchPoint": true,
+      "Order": 3
+    },
+    {
+      "ModuleID": 49,
+      "PathID": 10,
+      "Title": "Thực hành Bash",
+      "Content": "Thực hành Bash với các dự án thực tế: system administration, DevOps",
+      "Color": "#800080",
+      "IsBranchPoint": false,
+      "Order": 4
+    },
+    {
+      "ModuleID": 50,
+      "PathID": 10,
+      "Title": "Bash chuyên sâu",
+      "Content": "Học Bash chuyên sâu: security, performance, integration with other tools",
+      "Color": "#0000FF",
+      "IsBranchPoint": true,
+      "Order": 5
+    },
+    {
+      "ModuleID": 51,
+      "PathID": 11,
+      "Title": "Cú pháp Go",
+      "Content": "Học cú pháp cơ bản của Go: biến, kiểu dữ liệu, functions, structs",
+      "Color": "#FFFF00",
+      "IsBranchPoint": false,
+      "Order": 1
+    },
+    {
+      "ModuleID": 52,
+      "PathID": 11,
+      "Title": "Dự án nhỏ Go",
+      "Content": "Xây dựng các dự án nhỏ với Go: CLI tools, web servers đơn giản",
+      "Color": "#FFA500",
+      "IsBranchPoint": false,
+      "Order": 2
+    },
+    {
+      "ModuleID": 53,
+      "PathID": 11,
+      "Title": "Go nâng cao",
+      "Content": "Học Go nâng cao: concurrency, channels, interfaces, error handling",
+      "Color": "#FF0000",
+      "IsBranchPoint": true,
+      "Order": 3
+    },
+    {
+      "ModuleID": 54,
+      "PathID": 11,
+      "Title": "Thực hành Go",
+      "Content": "Thực hành Go với các dự án thực tế: microservices, APIs, distributed systems",
+      "Color": "#800080",
+      "IsBranchPoint": false,
+      "Order": 4
+    },
+    {
+      "ModuleID": 55,
+      "PathID": 11,
+      "Title": "Go chuyên sâu",
+      "Content": "Học Go chuyên sâu: performance optimization, testing, security",
+      "Color": "#0000FF",
+      "IsBranchPoint": true,
+      "Order": 5
+    },
+    {
+      "ModuleID": 56,
+      "PathID": 12,
+      "Title": "Cú pháp Rust",
+      "Content": "Học cú pháp cơ bản của Rust: biến, kiểu dữ liệu, ownership, borrowing",
+      "Color": "#FFFF00",
+      "IsBranchPoint": false,
+      "Order": 1
+    },
+    {
+      "ModuleID": 57,
+      "PathID": 12,
+      "Title": "Dự án nhỏ Rust",
+      "Content": "Xây dựng các dự án nhỏ với Rust: CLI tools, game đơn giản",
+      "Color": "#FFA500",
+      "IsBranchPoint": false,
+      "Order": 2
+    },
+    {
+      "ModuleID": 58,
+      "PathID": 12,
+      "Title": "Rust nâng cao",
+      "Content": "Học Rust nâng cao: traits, generics, concurrency, error handling",
+      "Color": "#FF0000",
+      "IsBranchPoint": true,
+      "Order": 3
+    },
+    {
+      "ModuleID": 59,
+      "PathID": 12,
+      "Title": "Thực hành Rust",
+      "Content": "Thực hành Rust với các dự án thực tế: systems programming, web servers",
+      "Color": "#800080",
+      "IsBranchPoint": false,
+      "Order": 4
+    },
+    {
+      "ModuleID": 60,
+      "PathID": 12,
+      "Title": "Rust chuyên sâu",
+      "Content": "Học Rust chuyên sâu: unsafe Rust, FFI, performance optimization",
+      "Color": "#0000FF",
+      "IsBranchPoint": true,
+      "Order": 5
+    },
+    {
+      "ModuleID": 61,
+      "PathID": 13,
+      "Title": "Cú pháp C/C++",
+      "Content": "Học cú pháp cơ bản của C/C++: biến, kiểu dữ liệu, pointers, OOP",
+      "Color": "#FFFF00",
+      "IsBranchPoint": false,
+      "Order": 1
+    },
+    {
+      "ModuleID": 62,
+      "PathID": 13,
+      "Title": "Dự án nhỏ C/C++",
+      "Content": "Xây dựng các dự án nhỏ với C/C++: ứng dụng console, tools đơn giản",
+      "Color": "#FFA500",
+      "IsBranchPoint": false,
+      "Order": 2
+    },
+    {
+      "ModuleID": 63,
+      "PathID": 13,
+      "Title": "C/C++ cho bảo mật",
+      "Content": "Học C/C++ cho bảo mật: memory safety, buffer overflows, secure coding",
+      "Color": "#FF0000",
+      "IsBranchPoint": true,
+      "Order": 3
+    },
+    {
+      "ModuleID": 64,
+      "PathID": 13,
+      "Title": "Thực hành C/C++ bảo mật",
+      "Content": "Thực hành C/C++ với các dự án bảo mật: penetration testing tools, security auditing",
+      "Color": "#800080",
+      "IsBranchPoint": false,
+      "Order": 4
+    },
+    {
+      "ModuleID": 65,
+      "PathID": 13,
+      "Title": "C/C++ bảo mật chuyên sâu",
+      "Content": "Học C/C++ bảo mật chuyên sâu: exploit development, reverse engineering",
+      "Color": "#0000FF",
+      "IsBranchPoint": true,
+      "Order": 5
+    },
+    {
+      "ModuleID": 66,
+      "PathID": 14,
+      "Title": "Cú pháp PHP",
+      "Content": "Học cú pháp cơ bản của PHP: biến, kiểu dữ liệu, functions, OOP",
+      "Color": "#FFFF00",
+      "IsBranchPoint": false,
+      "Order": 1
+    },
+    {
+      "ModuleID": 67,
+      "PathID": 14,
+      "Title": "Dự án nhỏ PHP",
+      "Content": "Xây dựng các dự án nhỏ với PHP: form handling, CRUD applications",
+      "Color": "#FFA500",
+      "IsBranchPoint": false,
+      "Order": 2
+    },
+    {
+      "ModuleID": 68,
+      "PathID": 14,
+      "Title": "PHP cho bảo mật web",
+      "Content": "Học PHP cho bảo mật web: SQL injection, XSS, CSRF, authentication",
+      "Color": "#FF0000",
+      "IsBranchPoint": true,
+      "Order": 3
+    },
+    {
+      "ModuleID": 69,
+      "PathID": 14,
+      "Title": "Thực hành PHP bảo mật",
+      "Content": "Thực hành PHP với các dự án bảo mật: secure authentication systems, security auditing",
+      "Color": "#800080",
+      "IsBranchPoint": false,
+      "Order": 4
+    },
+    {
+      "ModuleID": 70,
+      "PathID": 14,
+      "Title": "PHP bảo mật chuyên sâu",
+      "Content": "Học PHP bảo mật chuyên sâu: security frameworks, penetration testing",
+      "Color": "#0000FF",
+      "IsBranchPoint": true,
+      "Order": 5
+    },
+    {
+      "ModuleID": 71,
+      "PathID": 15,
+      "Title": "Cú pháp PowerShell",
+      "Content": "Học cú pháp cơ bản của PowerShell: cmdlets, variables, pipelines, functions",
+      "Color": "#FFFF00",
+      "IsBranchPoint": false,
+      "Order": 1
+    },
+    {
+      "ModuleID": 72,
+      "PathID": 15,
+      "Title": "Dự án nhỏ PowerShell",
+      "Content": "Xây dựng các dự án nhỏ với PowerShell: automation scripts, system management",
+      "Color": "#FFA500",
+      "IsBranchPoint": false,
+      "Order": 2
+    },
+    {
+      "ModuleID": 73,
+      "PathID": 15,
+      "Title": "PowerShell cho bảo mật",
+      "Content": "Học PowerShell cho bảo mật: security auditing, threat hunting, incident response",
+      "Color": "#FF0000",
+      "IsBranchPoint": true,
+      "Order": 3
+    },
+    {
+      "ModuleID": 74,
+      "PathID": 15,
+      "Title": "Thực hành PowerShell bảo mật",
+      "Content": "Thực hành PowerShell với các dự án bảo mật: security monitoring, log analysis",
+      "Color": "#800080",
+      "IsBranchPoint": false,
+      "Order": 4
+    },
+    {
+      "ModuleID": 75,
+      "PathID": 15,
+      "Title": "PowerShell bảo mật chuyên sâu",
+      "Content": "Học PowerShell bảo mật chuyên sâu: advanced threat detection, security automation",
+      "Color": "#0000FF",
+      "IsBranchPoint": true,
+      "Order": 5
+    },
+    {
+      "ModuleID": 76,
+      "PathID": 16,
+      "Title": "Cú pháp C++ cho game",
+      "Content": "Học cú pháp cơ bản của C++ cho game: biến, kiểu dữ liệu, OOP, templates",
+      "Color": "#FFFF00",
+      "IsBranchPoint": false,
+      "Order": 1
+    },
+    {
+      "ModuleID": 77,
+      "PathID": 16,
+      "Title": "Dự án nhỏ C++ game",
+      "Content": "Xây dựng các dự án nhỏ với C++: game 2D đơn giản, physics simulations",
+      "Color": "#FFA500",
+      "IsBranchPoint": false,
+      "Order": 2
+    },
+    {
+      "ModuleID": 78,
+      "PathID": 16,
+      "Title": "C++ game nâng cao",
+      "Content": "Học C++ game nâng cao: game engines, rendering, physics, AI",
+      "Color": "#FF0000",
+      "IsBranchPoint": true,
+      "Order": 3
+    },
+    {
+      "ModuleID": 79,
+      "PathID": 16,
+      "Title": "Thực hành C++ game",
+      "Content": "Thực hành C++ với các dự án game: 3D games, multiplayer games",
+      "Color": "#800080",
+      "IsBranchPoint": false,
+      "Order": 4
+    },
+    {
+      "ModuleID": 80,
+      "PathID": 16,
+      "Title": "C++ game chuyên sâu",
+      "Content": "Học C++ game chuyên sâu: optimization, advanced graphics, game AI",
+      "Color": "#0000FF",
+      "IsBranchPoint": true,
+      "Order": 5
+    },
+    {
+      "ModuleID": 81,
+      "PathID": 17,
+      "Title": "Cú pháp C# cho Unity",
+      "Content": "Học cú pháp cơ bản của C# cho Unity: biến, kiểu dữ liệu, OOP, Unity API",
+      "Color": "#FFFF00",
+      "IsBranchPoint": false,
+      "Order": 1
+    },
+    {
+      "ModuleID": 82,
+      "PathID": 17,
+      "Title": "Dự án nhỏ Unity",
+      "Content": "Xây dựng các dự án nhỏ với Unity: game 2D đơn giản, interactive applications",
+      "Color": "#FFA500",
+      "IsBranchPoint": false,
+      "Order": 2
+    },
+    {
+      "ModuleID": 83,
+      "PathID": 17,
+      "Title": "Unity nâng cao",
+      "Content": "Học Unity nâng cao: physics, animation, UI, audio, scripting",
+      "Color": "#FF0000",
+      "IsBranchPoint": true,
+      "Order": 3
+    },
+    {
+      "ModuleID": 84,
+      "PathID": 17,
+      "Title": "Thực hành Unity",
+      "Content": "Thực hành Unity với các dự án game: 3D games, mobile games, VR/AR",
+      "Color": "#800080",
+      "IsBranchPoint": false,
+      "Order": 4
+    },
+    {
+      "ModuleID": 85,
+      "PathID": 17,
+      "Title": "Unity chuyên sâu",
+      "Content": "Học Unity chuyên sâu: optimization, shaders, networking, AI",
+      "Color": "#0000FF",
+      "IsBranchPoint": true,
+      "Order": 5
+    },
+    {
+      "ModuleID": 86,
+      "PathID": 18,
+      "Title": "Cú pháp JavaScript cho game",
+      "Content": "Học cú pháp cơ bản của JavaScript cho game: biến, kiểu dữ liệu, functions, canvas",
+      "Color": "#FFFF00",
+      "IsBranchPoint": false,
+      "Order": 1
+    },
+    {
+      "ModuleID": 87,
+      "PathID": 18,
+      "Title": "Dự án nhỏ JavaScript game",
+      "Content": "Xây dựng các dự án nhỏ với JavaScript: game 2D đơn giản, interactive applications",
+      "Color": "#FFA500",
+      "IsBranchPoint": false,
+      "Order": 2
+    },
+    {
+      "ModuleID": 88,
+      "PathID": 18,
+      "Title": "JavaScript game nâng cao",
+      "Content": "Học JavaScript game nâng cao: game engines (Phaser, Three.js), physics, animation",
+      "Color": "#FF0000",
+      "IsBranchPoint": true,
+      "Order": 3
+    },
+    {
+      "ModuleID": 89,
+      "PathID": 18,
+      "Title": "Thực hành JavaScript game",
+      "Content": "Thực hành JavaScript với các dự án game: multiplayer games, mobile games",
+      "Color": "#800080",
+      "IsBranchPoint": false,
+      "Order": 4
+    },
+    {
+      "ModuleID": 90,
+      "PathID": 18,
+      "Title": "JavaScript game chuyên sâu",
+      "Content": "Học JavaScript game chuyên sâu: optimization, WebGL, 3D games, AI",
+      "Color": "#0000FF",
+      "IsBranchPoint": true,
+      "Order": 5
+    },
+    {
+      "ModuleID": 91,
+      "PathID": 19,
+      "Title": "Cú pháp Solidity",
+      "Content": "Học cú pháp cơ bản của Solidity: biến, kiểu dữ liệu, functions, contracts",
+      "Color": "#FFFF00",
+      "IsBranchPoint": false,
+      "Order": 1
+    },
+    {
+      "ModuleID": 92,
+      "PathID": 19,
+      "Title": "Dự án nhỏ Solidity",
+      "Content": "Xây dựng các dự án nhỏ với Solidity: tokens, simple contracts, voting systems",
+      "Color": "#FFA500",
+      "IsBranchPoint": false,
+      "Order": 2
+    },
+    {
+      "ModuleID": 93,
+      "PathID": 19,
+      "Title": "Solidity nâng cao",
+      "Content": "Học Solidity nâng cao: security, gas optimization, design patterns",
+      "Color": "#FF0000",
+      "IsBranchPoint": true,
+      "Order": 3
+    },
+    {
+      "ModuleID": 94,
+      "PathID": 19,
+      "Title": "Thực hành Solidity",
+      "Content": "Thực hành Solidity với các dự án thực tế: DeFi, NFTs, DAOs",
+      "Color": "#800080",
+      "IsBranchPoint": false,
+      "Order": 4
+    },
+    {
+      "ModuleID": 95,
+      "PathID": 19,
+      "Title": "Solidity chuyên sâu",
+      "Content": "Học Solidity chuyên sâu: advanced security, formal verification, upgradable contracts",
+      "Color": "#0000FF",
+      "IsBranchPoint": true,
+      "Order": 5
+    },
+    {
+      "ModuleID": 96,
+      "PathID": 20,
+      "Title": "Cú pháp JavaScript cho dApps",
+      "Content": "Học cú pháp cơ bản của JavaScript cho dApps: biến, kiểu dữ liệu, async/await, Web3.js",
+      "Color": "#FFFF00",
+      "IsBranchPoint": false,
+      "Order": 1
+    },
+    {
+      "ModuleID": 97,
+      "PathID": 20,
+      "Title": "Dự án nhỏ JavaScript dApps",
+      "Content": "Xây dựng các dự án nhỏ với JavaScript: wallet connections, simple dApps",
+      "Color": "#FFA500",
+      "IsBranchPoint": false,
+      "Order": 2
+    },
+    {
+      "ModuleID": 98,
+      "PathID": 20,
+      "Title": "JavaScript dApps nâng cao",
+      "Content": "Học JavaScript dApps nâng cao: React, ethers.js, IPFS, smart contract integration",
+      "Color": "#FF0000",
+      "IsBranchPoint": true,
+      "Order": 3
+    },
+    {
+      "ModuleID": 99,
+      "PathID": 20,
+      "Title": "Thực hành JavaScript dApps",
+      "Content": "Thực hành JavaScript với các dự án dApps: DeFi interfaces, NFT marketplaces",
+      "Color": "#800080",
+      "IsBranchPoint": false,
+      "Order": 4
+    },
+    {
+      "ModuleID": 100,
+      "PathID": 20,
+      "Title": "JavaScript dApps chuyên sâu",
+      "Content": "Học JavaScript dApps chuyên sâu: security, performance, cross-chain applications",
+      "Color": "#0000FF",
+      "IsBranchPoint": true,
+      "Order": 5
+    },
+    {
+      "ModuleID": 101,
+      "PathID": 21,
+      "Title": "Cú pháp Python cho blockchain",
+      "Content": "Học cú pháp cơ bản của Python cho blockchain: biến, kiểu dữ liệu, cryptography basics",
+      "Color": "#FFFF00",
+      "IsBranchPoint": false,
+      "Order": 1
+    },
+    {
+      "ModuleID": 102,
+      "PathID": 21,
+      "Title": "Dự án nhỏ Python blockchain",
+      "Content": "Xây dựng các dự án nhỏ với Python: simple blockchain, cryptography tools",
+      "Color": "#FFA500",
+      "IsBranchPoint": false,
+      "Order": 2
+    },
+    {
+      "ModuleID": 103,
+      "PathID": 21,
+      "Title": "Python blockchain nâng cao",
+      "Content": "Học Python blockchain nâng cao: consensus algorithms, smart contracts, web3.py",
+      "Color": "#FF0000",
+      "IsBranchPoint": true,
+      "Order": 3
+    },
+    {
+      "ModuleID": 104,
+      "PathID": 21,
+      "Title": "Thực hành Python blockchain",
+      "Content": "Thực hành Python với các dự án blockchain: blockchain analytics, DeFi tools",
+      "Color": "#800080",
+      "IsBranchPoint": false,
+      "Order": 4
+    },
+    {
+      "ModuleID": 105,
+      "PathID": 21,
+      "Title": "Python blockchain chuyên sâu",
+      "Content": "Học Python blockchain chuyên sâu: security, scalability, interoperability",
+      "Color": "#0000FF",
+      "IsBranchPoint": true,
+      "Order": 5
+    }
+  ],
+  "Branches": [
+    {
+      "BranchID": 1,
+      "ModuleID": 3,
+      "SuggestedFieldID": 6,
+      "Reason": "JavaScript cũng được sử dụng rộng rãi trong phát triển game web"
+    },
+    {
+      "BranchID": 2,
+      "ModuleID": 3,
+      "SuggestedFieldID": 7,
+      "Reason": "JavaScript là ngôn ngữ quan trọng trong phát triển ứng dụng blockchain"
+    },
+    {
+      "BranchID": 3,
+      "ModuleID": 5,
+      "SuggestedFieldID": 2,
+      "Reason": "JavaScript được sử dụng trong xây dựng các ứng dụng AI trên web"
+    },
+    {
+      "BranchID": 4,
+      "ModuleID": 5,
+      "SuggestedFieldID": 3,
+      "Reason": "JavaScript là công cụ quan trọng trong quản lý dự án web"
+    },
+    {
+      "BranchID": 5,
+      "ModuleID": 8,
+      "SuggestedFieldID": 1,
+      "Reason": "HTML/CSS là nền tảng của phát triển web"
+    },
+    {
+      "BranchID": 6,
+      "ModuleID": 8,
+      "SuggestedFieldID": 6,
+      "Reason": "HTML/CSS được sử dụng trong phát triển giao diện game web"
+    },
+    {
+      "BranchID": 7,
+      "ModuleID": 10,
+      "SuggestedFieldID": 1,
+      "Reason": "HTML/CSS nâng cao giúp xây dựng giao diện web chuyên nghiệp"
+    },
+    {
+      "BranchID": 8,
+      "ModuleID": 10,
+      "SuggestedFieldID": 5,
+      "Reason": "Hiểu biết sâu về HTML/CSS giúp phát hiện và ngăn chặn các lỗ hổng bảo mật web"
+    },
+    {
+      "BranchID": 9,
+      "ModuleID": 13,
+      "SuggestedFieldID": 1,
+      "Reason": "TypeScript được sử dụng rộng rãi trong phát triển web hiện đại"
+    },
+    {
+      "BranchID": 10,
+      "ModuleID": 13,
+      "SuggestedFieldID": 3,
+      "Reason": "TypeScript giúp quản lý code tốt hơn trong các dự án lớn"
+    },
+    {
+      "BranchID": 11,
+      "ModuleID": 15,
+      "SuggestedFieldID": 2,
+      "Reason": "TypeScript được sử dụng trong các dự án AI trên web"
+    },
+    {
+      "BranchID": 12,
+      "ModuleID": 15,
+      "SuggestedFieldID": 7,
+      "Reason": "TypeScript là công cụ quan trọng trong phát triển ứng dụng blockchain hiện đại"
+    },
+    {
+      "BranchID": 13,
+      "ModuleID": 18,
+      "SuggestedFieldID": 7,
+      "Reason": "Python được sử dụng trong phân tích dữ liệu blockchain"
+    },
+    {
+      "BranchID": 14,
+      "ModuleID": 18,
+      "SuggestedFieldID": 3,
+      "Reason": "Python là công cụ phân tích dữ liệu quan trọng trong quản lý dự án"
+    },
+    {
+      "BranchID": 15,
+      "ModuleID": 20,
+      "SuggestedFieldID": 2,
+      "Reason": "Python là ngôn ngữ hàng đầu cho AI và machine learning"
+    },
+    {
+      "BranchID": 16,
+      "ModuleID": 20,
+      "SuggestedFieldID": 5,
+      "Reason": "Python được sử dụng rộng rãi trong bảo mật và phân tích mã độc"
+    },
+    {
+      "BranchID": 17,
+      "ModuleID": 23,
+      "SuggestedFieldID": 2,
+      "Reason": "R là công cụ phân tích dữ liệu mạnh mẽ cho AI và machine learning"
+    },
+    {
+      "BranchID": 18,
+      "ModuleID": 23,
+      "SuggestedFieldID": 3,
+      "Reason": "R giúp phân tích dữ liệu và tạo báo cáo trong quản lý dự án"
+    },
+    {
+      "BranchID": 19,
+      "ModuleID": 25,
+      "SuggestedFieldID": 2,
+      "Reason": "R là ngôn ngữ quan trọng trong thống kê và machine learning"
+    },
+    {
+      "BranchID": 20,
+      "ModuleID": 25,
+      "SuggestedFieldID": 7,
+      "Reason": "R được sử dụng trong phân tích dữ liệu blockchain"
+    },
+    {
+      "BranchID": 21,
+      "ModuleID": 28,
+      "SuggestedFieldID": 2,
+      "Reason": "Julia là ngôn ngữ mạnh mẽ cho AI và tính toán khoa học"
+    },
+    {
+      "BranchID": 22,
+      "ModuleID": 28,
+      "SuggestedFieldID": 4,
+      "Reason": "Julia được sử dụng trong tính toán hiệu suất cao cho hệ thống"
+    },
+    {
+      "BranchID": 23,
+      "ModuleID": 30,
+      "SuggestedFieldID": 2,
+      "Reason": "Julia là ngôn ngữ hiệu suất cao cho AI và deep learning"
+    },
+    {
+      "BranchID": 24,
+      "ModuleID": 30,
+      "SuggestedFieldID": 7,
+      "Reason": "Julia được sử dụng trong mô phỏng và tối ưu hóa blockchain"
+    },
+    {
+      "BranchID": 25,
+      "ModuleID": 33,
+      "SuggestedFieldID": 3,
+      "Reason": "SQL là công cụ quan trọng trong quản lý dữ liệu doanh nghiệp"
+    },
+    {
+      "BranchID": 26,
+      "ModuleID": 33,
+      "SuggestedFieldID": 5,
+      "Reason": "SQL là kỹ năng cần thiết cho bảo mật cơ sở dữ liệu"
+    },
+    {
+      "BranchID": 27,
+      "ModuleID": 35,
+      "SuggestedFieldID": 2,
+      "Reason": "SQL được sử dụng trong phân tích dữ liệu lớn cho AI"
+    },
+    {
+      "BranchID": 28,
+      "ModuleID": 35,
+      "SuggestedFieldID": 4,
+      "Reason": "SQL là công cụ quan trọng trong quản trị hệ thống cơ sở dữ liệu"
+    },
+    {
+      "BranchID": 29,
+      "ModuleID": 38,
+      "SuggestedFieldID": 3,
+      "Reason": "Java là ngôn ngữ phổ biến trong phát triển ứng dụng doanh nghiệp"
+    },
+    {
+      "BranchID": 30,
+      "ModuleID": 38,
+      "SuggestedFieldID": 6,
+      "Reason": "Java được sử dụng trong phát triển game đa nền tảng"
+    },
+    {
+      "BranchID": 31,
+      "ModuleID": 40,
+      "SuggestedFieldID": 4,
+      "Reason": "Java là ngôn ngữ quan trọng trong phát triển hệ thống phân tán"
+    },
+    {
+      "BranchID": 32,
+      "ModuleID": 40,
+      "SuggestedFieldID": 5,
+      "Reason": "Java có nhiều framework bảo mật cho ứng dụng doanh nghiệp"
+    },
+    {
+      "BranchID": 33,
+      "ModuleID": 43,
+      "SuggestedFieldID": 3,
+      "Reason": "C# là ngôn ngữ phổ biến trong phát triển ứng dụng doanh nghiệp"
+    },
+    {
+      "BranchID": 34,
+      "ModuleID": 43,
+      "SuggestedFieldID": 6,
+      "Reason": "C# là ngôn ngữ chính cho phát triển game với Unity"
+    },
+    {
+      "BranchID": 35,
+      "ModuleID": 45,
+      "SuggestedFieldID": 4,
+      "Reason": "C# được sử dụng trong phát triển hệ thống Windows"
+    },
+    {
+      "BranchID": 36,
+      "ModuleID": 45,
+      "SuggestedFieldID": 5,
+      "Reason": "C# có nhiều framework bảo mật cho ứng dụng .NET"
+    },
+    {
+      "BranchID": 37,
+      "ModuleID": 48,
+      "SuggestedFieldID": 4,
+      "Reason": "Bash là công cụ quan trọng trong quản trị hệ thống Linux"
+    },
+    {
+      "BranchID": 38,
+      "ModuleID": 48,
+      "SuggestedFieldID": 5,
+      "Reason": "Bash được sử dụng trong tự động hóa bảo mật và kiểm tra lỗ hổng"
+    },
+    {
+      "BranchID": 39,
+      "ModuleID": 50,
+      "SuggestedFieldID": 4,
+      "Reason": "Bash là công cụ thiết yếu trong quản trị hệ thống và DevOps"
+    },
+    {
+      "BranchID": 40,
+      "ModuleID": 50,
+      "SuggestedFieldID": 3,
+      "Reason": "Bash giúp tự động hóa quy trình trong quản lý dự án"
+    },
+    {
+      "BranchID": 41,
+      "ModuleID": 53,
+      "SuggestedFieldID": 4,
+      "Reason": "Go là ngôn ngữ phổ biến trong phát triển hệ thống và microservices"
+    },
+    {
+      "BranchID": 42,
+      "ModuleID": 53,
+      "SuggestedFieldID": 7,
+      "Reason": "Go được sử dụng trong phát triển blockchain và cryptocurrency"
+    },
+    {
+      "BranchID": 43,
+      "ModuleID": 55,
+      "SuggestedFieldID": 4,
+      "Reason": "Go là ngôn ngữ hiệu suất cao cho hệ thống phân tán"
+    },
+    {
+      "BranchID": 44,
+      "ModuleID": 55,
+      "SuggestedFieldID": 5,
+      "Reason": "Go có tính năng bảo mật tích hợp và được sử dụng trong các công cụ bảo mật"
+    },
+    {
+      "BranchID": 45,
+      "ModuleID": 58,
+      "SuggestedFieldID": 4,
+      "Reason": "Rust là ngôn ngữ an toàn cho phát triển hệ thống"
+    },
+    {
+      "BranchID": 46,
+      "ModuleID": 58,
+      "SuggestedFieldID": 6,
+      "Reason": "Rust được sử dụng trong phát triển game hiệu suất cao"
+    },
+    {
+      "BranchID": 47,
+      "ModuleID": 60,
+      "SuggestedFieldID": 4,
+      "Reason": "Rust là ngôn ngữ hiệu suất cao cho hệ thống và embedded systems"
+    },
+    {
+      "BranchID": 48,
+      "ModuleID": 60,
+      "SuggestedFieldID": 5,
+      "Reason": "Rust có tính năng bảo mật tích hợp và được sử dụng trong các công cụ bảo mật"
+    },
+    {
+      "BranchID": 49,
+      "ModuleID": 63,
+      "SuggestedFieldID": 5,
+      "Reason": "C/C++ là ngôn ngữ quan trọng trong bảo mật và penetration testing"
+    },
+    {
+      "BranchID": 50,
+      "ModuleID": 63,
+      "SuggestedFieldID": 6,
+      "Reason": "C/C++ là ngôn ngữ phổ biến trong phát triển game hiệu suất cao"
+    },
+    {
+      "BranchID": 51,
+      "ModuleID": 65,
+      "SuggestedFieldID": 5,
+      "Reason": "C/C++ là ngôn ngữ thiết yếu trong bảo mật và reverse engineering"
+    },
+    {
+      "BranchID": 52,
+      "ModuleID": 65,
+      "SuggestedFieldID": 4,
+      "Reason": "C/C++ là ngôn ngữ quan trọng trong phát triển hệ thống và drivers"
+    },
+    {
+      "BranchID": 53,
+      "ModuleID": 68,
+      "SuggestedFieldID": 5,
+      "Reason": "PHP là ngôn ngữ phổ biến cần được bảo mật trong phát triển web"
+    },
+    {
+      "BranchID": 54,
+      "ModuleID": 68,
+      "SuggestedFieldID": 1,
+      "Reason": "PHP vẫn được sử dụng rộng rãi trong phát triển web"
+    },
+    {
+      "BranchID": 55,
+      "ModuleID": 70,
+      "SuggestedFieldID": 5,
+      "Reason": "PHP là mục tiêu phổ biến của các cuộc tấn công web"
+    },
+    {
+      "BranchID": 56,
+      "ModuleID": 70,
+      "SuggestedFieldID": 3,
+      "Reason": "PHP được sử dụng trong nhiều hệ thống quản lý nội dung doanh nghiệp"
+    },
+    {
+      "BranchID": 57,
+      "ModuleID": 73,
+      "SuggestedFieldID": 5,
+      "Reason": "PowerShell là công cụ quan trọng trong bảo mật Windows"
+    },
+    {
+      "BranchID": 58,
+      "ModuleID": 73,
+      "SuggestedFieldID": 4,
+      "Reason": "PowerShell là công cụ thiết yếu trong quản trị hệ thống Windows"
+    },
+    {
+      "BranchID": 59,
+      "ModuleID": 75,
+      "SuggestedFieldID": 5,
+      "Reason": "PowerShell là công cụ mạnh mẽ cho bảo mật và phân tích mã độc"
+    },
+    {
+      "BranchID": 60,
+      "ModuleID": 75,
+      "SuggestedFieldID": 3,
+      "Reason": "PowerShell giúp tự động hóa quy trình trong quản lý dự án Windows"
+    },
+    {
+      "BranchID": 61,
+      "ModuleID": 78,
+      "SuggestedFieldID": 6,
+      "Reason": "C++ là ngôn ngữ chính cho phát triển game hiệu suất cao"
+    },
+    {
+      "BranchID": 62,
+      "ModuleID": 78,
+      "SuggestedFieldID": 4,
+      "Reason": "C++ được sử dụng trong phát triển hệ thống và drivers"
+    },
+    {
+      "BranchID": 63,
+      "ModuleID": 80,
+      "SuggestedFieldID": 6,
+      "Reason": "C++ là ngôn ngữ thiết yếu cho phát triển game AAA"
+    },
+    {
+      "BranchID": 64,
+      "ModuleID": 80,
+      "SuggestedFieldID": 5,
+      "Reason": "C++ yêu cầu hiểu biết sâu về bảo mật để tránh lỗ hổng"
+    },
+    {
+      "BranchID": 65,
+      "ModuleID": 83,
+      "SuggestedFieldID": 6,
+      "Reason": "Unity là game engine phổ biến nhất cho phát triển game đa nền tảng"
+    },
+    {
+      "BranchID": 66,
+      "ModuleID": 83,
+      "SuggestedFieldID": 3,
+      "Reason": "Unity được sử dụng trong phát triển ứng dụng mô phỏng cho doanh nghiệp"
+    },
+    {
+      "BranchID": 67,
+      "ModuleID": 85,
+      "SuggestedFieldID": 6,
+      "Reason": "Unity là công cụ mạnh mẽ cho phát triển game chuyên nghiệp"
+    },
+    {
+      "BranchID": 68,
+      "ModuleID": 85,
+      "SuggestedFieldID": 1,
+      "Reason": "Unity WebGL cho phép xuất bản game lên web"
+    },
+    {
+      "BranchID": 69,
+      "ModuleID": 88,
+      "SuggestedFieldID": 6,
+      "Reason": "JavaScript là ngôn ngữ phổ biến cho phát triển game web"
+    },
+    {
+      "BranchID": 70,
+      "ModuleID": 88,
+      "SuggestedFieldID": 1,
+      "Reason": "JavaScript là ngôn ngữ cốt lõi của web"
+    },
+    {
+      "BranchID": 71,
+      "ModuleID": 90,
+      "SuggestedFieldID": 6,
+      "Reason": "JavaScript với WebGL cho phép phát triển game 3D trên web"
+    },
+    {
+      "BranchID": 72,
+      "ModuleID": 90,
+      "SuggestedFieldID": 7,
+      "Reason": "JavaScript là ngôn ngữ quan trọng trong phát triển ứng dụng blockchain"
+    },
+    {
+      "BranchID": 73,
+      "ModuleID": 93,
+      "SuggestedFieldID": 7,
+      "Reason": "Solidity là ngôn ngữ chính cho phát triển smart contracts trên Ethereum"
+    },
+    {
+      "BranchID": 74,
+      "ModuleID": 93,
+      "SuggestedFieldID": 5,
+      "Reason": "Solidity yêu cầu hiểu biết sâu về bảo mật để tránh lỗ hổng"
+    },
+    {
+      "BranchID": 75,
+      "ModuleID": 95,
+      "SuggestedFieldID": 7,
+      "Reason": "Solidity là nền tảng của DeFi và ứng dụng blockchain"
+    },
+    {
+      "BranchID": 76,
+      "ModuleID": 95,
+      "SuggestedFieldID": 3,
+      "Reason": "Smart contracts được sử dụng trong quản lý dự án phi tập trung"
+    },
+    {
+      "BranchID": 77,
+      "ModuleID": 98,
+      "SuggestedFieldID": 7,
+      "Reason": "JavaScript là ngôn ngữ phổ biến nhất cho phát triển frontend dApps"
+    },
+    {
+      "BranchID": 78,
+      "ModuleID": 98,
+      "SuggestedFieldID": 1,
+      "Reason": "JavaScript là nền tảng của phát triển web hiện đại"
+    },
+    {
+      "BranchID": 79,
+      "ModuleID": 100,
+      "SuggestedFieldID": 7,
+      "Reason": "JavaScript là công cụ thiết yếu cho phát triển dApps đa nền tảng"
+    },
+    {
+      "BranchID": 80,
+      "ModuleID": 100,
+      "SuggestedFieldID": 5,
+      "Reason": "JavaScript dApps yêu cầu hiểu biết sâu về bảo mật web"
+    },
+    {
+      "BranchID": 81,
+      "ModuleID": 103,
+      "SuggestedFieldID": 7,
+      "Reason": "Python được sử dụng trong phát triển và phân tích blockchain"
+    },
+    {
+      "BranchID": 82,
+      "ModuleID": 103,
+      "SuggestedFieldID": 2,
+      "Reason": "Python là ngôn ngữ phổ biến cho AI và phân tích dữ liệu"
+    },
+    {
+      "BranchID": 83,
+      "ModuleID": 105,
+      "SuggestedFieldID": 7,
+      "Reason": "Python là công cụ quan trọng trong nghiên cứu và phát triển blockchain"
+    },
+    {
+      "BranchID": 84,
+      "ModuleID": 105,
+      "SuggestedFieldID": 5,
+      "Reason": "Python được sử dụng trong bảo mật blockchain và phân tích lỗ hổng"
+    }
+  ]
+}
